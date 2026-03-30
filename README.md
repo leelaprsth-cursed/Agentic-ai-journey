@@ -1,2 +1,17 @@
-# Agentic-ai-journey
-Daily proof of my journey to mastering Python, Machine Learning, and Agentic AI. Built with consistency, zero shortcuts, and real understanding.
+🚀 Agentic AI Journey
+
+This repository documents my daily progress in learning Python and AI.
+
+📅 Structure
+
+- Daily code
+- Learnings
+- Weekly projects
+
+🎯 Goal
+
+Build strong fundamentals and real-world AI skills.
+
+⚡ Rule
+
+No copy-paste. Only real understanding.
