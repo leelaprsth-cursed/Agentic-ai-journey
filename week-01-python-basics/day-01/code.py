@@ -1,7 +1,5 @@
-name = "Leela"
-age = 18
-is_student = True
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
 
-print("Name:", name)
-print("Age:", age)
-print("Student:", is_student)
+print("Hello", name)
+print("Next year your age will be:", age + 1)
